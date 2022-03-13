@@ -14,8 +14,12 @@ A Java SE application performing the functionality of a phonebook with the follo
 - Search for one Contact by his/her Phone Number (Exact Match)
   
 ### Hints
-• Multiple Phone Numbers can be assigned to a single Contact.
-• Phone Numbers can’t be duplicated across the phonebook.
-• Contact Names can’t be duplicated across the phonebook.
-• A Phone Number shall have a Type which is one of three types (Mobile, Home, Work). By default
+- Multiple Phone Numbers can be assigned to a single Contact.
+- Phone Numbers can’t be duplicated across the phonebook.
+- Contact Names can’t be duplicated across the phonebook.
+ A Phone Number shall have a Type which is one of three types (Mobile, Home, Work). By default
 it’s “Mobile”.
+
+### How To Run
+Just run the main program class Or run the .jar file.
+And Enjoy Using PhoneBook.
